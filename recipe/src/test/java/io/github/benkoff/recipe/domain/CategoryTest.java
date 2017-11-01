@@ -22,7 +22,6 @@ import static org.mockito.Mockito.when;
 public class CategoryTest {
 
     Category category;
-    RecipeServiceImpl recipeService;
 
     @Mock
     RecipeRepository recipeRepository;
